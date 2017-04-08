@@ -5,3 +5,4 @@ a description of the project
 getRandomElement();
 bewerkingske
 getRandomNumber();
+nieuwexample
